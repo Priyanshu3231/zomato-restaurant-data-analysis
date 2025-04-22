@@ -12,7 +12,6 @@ This project performs an **Exploratory Data Analysis (EDA)** on a dataset source
   - Analyze restaurant density by location
   - Discover price trends and customer preferences
 
-## 📂 Project Structure
 
 
 ## 📌 Key Insights
